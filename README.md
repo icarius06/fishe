@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![alt text](https://raw.githubusercontent.com/chrisbanes/cheesesquare/master/art/icon.png)
 
 Cheesesquare Sample
@@ -38,3 +39,11 @@ distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
 WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.  See the
 License for the specific language governing permissions and limitations under
 the License.
+=======
+# fishe
+Android application built for fishackathon. 
+
+This repo will include two major files.
+1. Android source code
+2. RoR API for the backend.
+>>>>>>> 039dba48fc7ee6ab75c15fc1ff5c2333da23bdbf
