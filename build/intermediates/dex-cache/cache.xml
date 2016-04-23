@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/media/michael/4C2C01D62C01BBC8/Developer/Material/cheesesquare-master/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5b37cf49773f7f17aca9830efd3053b0cac56728">
+        <dex dex="/media/michael/4C2C01D62C01BBC8/Developer/Material/cheesesquare-master/app/build/intermediates/pre-dexed/debug/classes-0f8280e3174dc9cbcc8d69e996471e0ec1d591e6.jar" />
+    </item>
+    <item
+        jar="/home/michael/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/media/michael/4C2C01D62C01BBC8/Developer/Material/cheesesquare-master/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-d90a440fc4e7be0d7acf53c9c4f961de8ddddef5.jar" />
+    </item>
+    <item
+        jar="/media/michael/4C2C01D62C01BBC8/Developer/Material/cheesesquare-master/app/build/intermediates/exploded-aar/com.android.support/design/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="/media/michael/4C2C01D62C01BBC8/Developer/Material/cheesesquare-master/app/build/intermediates/pre-dexed/debug/classes-6576474005579db0870a915e623d730220e43515.jar" />
+    </item>
+    <item
+        jar="/media/michael/4C2C01D62C01BBC8/Developer/Material/cheesesquare-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/media/michael/4C2C01D62C01BBC8/Developer/Material/cheesesquare-master/app/build/intermediates/pre-dexed/debug/classes-995b2b9e73c470fa46a7de3f7b9fb022ca9f4537.jar" />
+    </item>
+    <item
+        jar="/media/michael/4C2C01D62C01BBC8/Developer/Material/cheesesquare-master/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="97f7e239e86ef994de894818fdd8a71d2e89d6aa">
+        <dex dex="/media/michael/4C2C01D62C01BBC8/Developer/Material/cheesesquare-master/app/build/intermediates/pre-dexed/debug/classes-20febc8ad60b49771979f4fb95e96d4b7f67ba24.jar" />
+    </item>
+    <item
+        jar="/home/michael/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.6.0/a7537446a030da8eb0da4c71424d16c2589f6c4a/glide-3.6.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a7537446a030da8eb0da4c71424d16c2589f6c4a">
+        <dex dex="/media/michael/4C2C01D62C01BBC8/Developer/Material/cheesesquare-master/app/build/intermediates/pre-dexed/debug/glide-3.6.0-bbe2cf5329eea7591006d951c8740504d9fac0eb.jar" />
+    </item>
+    <item
+        jar="/media/michael/4C2C01D62C01BBC8/Developer/Material/cheesesquare-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/media/michael/4C2C01D62C01BBC8/Developer/Material/cheesesquare-master/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-d328b462b079a3ea19c06bf4ad37fe725512918b.jar" />
+    </item>
+    <item
+        jar="/media/michael/4C2C01D62C01BBC8/Developer/Material/cheesesquare-master/app/build/intermediates/exploded-aar/de.hdodenhof/circleimageview/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ac6948cce36f694f3eb3d73a135e298dc4b3527a">
+        <dex dex="/media/michael/4C2C01D62C01BBC8/Developer/Material/cheesesquare-master/app/build/intermediates/pre-dexed/debug/classes-182ffe0524ba755abd3ad73b6c9551d2351f5f04.jar" />
+    </item>
+    <item
+        jar="/media/michael/4C2C01D62C01BBC8/Developer/Material/cheesesquare-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/media/michael/4C2C01D62C01BBC8/Developer/Material/cheesesquare-master/app/build/intermediates/pre-dexed/debug/classes-82c1c9a38187a8451009f2a99b1e50861e2ad0ca.jar" />
+    </item>
+
+</items>
